@@ -7,4 +7,4 @@ This is an open source project to detect COVID-19 cases using chest X-ray images
 
 # Results
 
-<img src=“plots/cm_matrix_Resnet50.png”>
+![Confusion Matrix](https://github.com/[username]/CovidNet/blob/master/cm_matrix_Resnet50.png?raw=true)
